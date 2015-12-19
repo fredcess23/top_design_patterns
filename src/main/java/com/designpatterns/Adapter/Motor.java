@@ -1,4 +1,4 @@
-package com.designpatterns.Adapter;
+package com.designpatterns.adapter;
 
 
 public abstract class Motor {

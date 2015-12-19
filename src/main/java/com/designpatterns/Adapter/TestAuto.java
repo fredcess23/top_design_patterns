@@ -1,4 +1,4 @@
-package com.designpatterns.Adapter;
+package com.designpatterns.adapter;
 
 /*
  * El patrón de diseño Adapter establece una capa intermedia que permita comunicarse a 
@@ -7,6 +7,7 @@ package com.designpatterns.Adapter;
  *
  *Sirve como intermediario entre dos clases, convirtiendo las interfases de una clase que 
  *pueda ser utilizada por otra.
+ * 
  * */
 
 public class TestAuto {
