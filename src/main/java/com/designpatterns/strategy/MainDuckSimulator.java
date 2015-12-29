@@ -20,7 +20,7 @@ public class MainDuckSimulator {
 		model.setFlyBehavior(new FlyRocketPowered());
 		model.performFly();
 	
-		// the model duck dynamically changed its fliyng behavior
+		// the model duck dynamically changed its flying behavior
 	}
 
 }
