@@ -1,4 +1,4 @@
-package com.designpatterns.factory;
+package com.designpatterns.factory.tv;
 
 /**
  * La magia del Patrón Factory Method, pasa por aqui, el metodo obtenerObject, va determinar de acuerdo a 

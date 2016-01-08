@@ -1,5 +1,12 @@
 package com.designpatterns.decorator;
 
+/**
+ * 
+ * Decorator: Attach additional responsibilities to an object dynamically.
+ * Decorators provide a flexible alternative to subclassing for extending functionality.
+ *
+ */
+
 public class StarbuzzCoffee {
 	 
 	public static void main(String args[]) {
